@@ -9,5 +9,5 @@ app.use(cors());
 app.use(routes);
 
 app.listen(port, (req, res) => {
-    console.log('API respondendo em http://localhost:' + port)
+    console.log('https://estacionamento-rst.vercel.app/' )
 });
